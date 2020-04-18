@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 		<title>
 			The Most Dangerous Game
 		</title>
@@ -12,10 +13,18 @@
 
 			<script>
 			
-			<!-- This is the javascript spot, where all the javascript could go. Could offload to another text if necessary to save space. -->
+			//  This is the javascript spot, where all the javascript will go. Could offload to another text if necessary to save space.
 
 			</script>
+		<div id="container">
+			<p>
+				Placeholder until game is complete
+			</p>
+		</div>
 
+		<p>
+			"The Dangerous Game" is a project for SSW-215 between Erick Lim and Gabriela Onelli, to demonstrate proficency in the languages of HTML and Javascript.
+		</p>
 	</body>
 </html>
 
