@@ -10,18 +10,21 @@
 		<h1>
 			The Most Dangerous Game
 		</h1>
+		
+<!--	<div id="container"> 
+		
+		<script src="character.js"></script>
+		<script src="game.js"></script>
 
-			<script>
-			
-			//  This is the javascript spot, where all the javascript will go. Could offload to another text if necessary to save space.
-
-			</script>
-		<div id="container">
 			<p>
 				Placeholder until game is complete
-			</p>
-		</div>
+			</p> 
+		</div> -->
 
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+		<script src="game.js"></script>	
+		<script src="character.js"></script>
+		
 		<p>
 			"The Dangerous Game" is a project for SSW-215 between Erick Lim and Gabriela Onelli, to demonstrate proficency in the languages of HTML and Javascript.
 		</p>
